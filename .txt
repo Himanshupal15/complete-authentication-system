@@ -1,0 +1,3 @@
+EkV98feoRk2jKNgT
+
+mongodb+srv://auth-system:EkV98feoRk2jKNgT@auth-system.4bfk1jo.mongodb.net/
